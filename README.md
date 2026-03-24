@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # ✦ Inkwell
 
 > Your thoughts, beautifully kept.
@@ -35,4 +34,3 @@ src/
 ├── App.jsx
 └── index.css
 ```
-EOF

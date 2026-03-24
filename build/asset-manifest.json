@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inkwell/static/css/main.5e0e8933.css",
+    "main.js": "/inkwell/static/js/main.e0c0e78b.js",
+    "index.html": "/inkwell/index.html",
+    "main.5e0e8933.css.map": "/inkwell/static/css/main.5e0e8933.css.map",
+    "main.e0c0e78b.js.map": "/inkwell/static/js/main.e0c0e78b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e0e8933.css",
+    "static/js/main.e0c0e78b.js"
+  ]
+}
